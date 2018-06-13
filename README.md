@@ -1,2 +1,3 @@
 # circleci
-Integration of circleci and docker
+Introduction and installation of circleci on a linux machine.
+Integration of circleci with docker for easy automation.
